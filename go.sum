@@ -19,8 +19,8 @@ github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Ky
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
-github.com/twiny/whois/v2 v2.0.1 h1:jDqkiq0wv2qdm9d/bquhQpg7AhJDYf89g7ozZElSTuA=
-github.com/twiny/whois/v2 v2.0.1/go.mod h1:UeyP4HmWFruXXuYQ722s/BnWgwxi7fRb/bk9Fnqm7OA=
+github.com/spinkbuffalo/whois/v2 v2.0.1 h1:jDqkiq0wv2qdm9d/bquhQpg7AhJDYf89g7ozZElSTuA=
+github.com/spinkbuffalo/whois/v2 v2.0.1/go.mod h1:UeyP4HmWFruXXuYQ722s/BnWgwxi7fRb/bk9Fnqm7OA=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 h1:psW17arqaxU48Z5kZ0CQnkZWQJsqcURM6tKiBApRjXI=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
