@@ -1,8 +1,8 @@
-module github.com/twiny/domaincheck
+module github.com/spinkbuffalo/domaincheck
 
 go 1.18
 
-require github.com/twiny/whois/v2 v2.0.1
+require github.com/spinkbuffalo/whois/v2 v2.0.1
 
 require (
 	github.com/fatih/color v1.10.0 // indirect
